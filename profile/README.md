@@ -1,9 +1,9 @@
 ## 당신의 생성형AI 파트너, 스퀘어라이트
 
-✅ Squarelight https://squarelight.ai
-✅ Flowise Korea https://flowise.kr
-✅ SquareGPT https://llm.squarelight.ai 
-✅ DrawSense https://draw.flowise.kr
+✅ Squarelight https://squarelight.ai  
+✅ Flowise Korea https://flowise.kr  
+✅ SquareGPT https://llm.squarelight.ai   
+✅ DrawSense https://draw.flowise.kr  
 
 <!--
 
